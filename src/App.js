@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="container my-5">
-      <h1 style={{textAlign: "center"}}> Welcome to My Online Quiz Website</h1>
+      <h1 style={{textAlign: "center"}}> NexusBerry: Welcome to My Online Quiz Website</h1>
       <ol>
         {
           questions.map(q => {
